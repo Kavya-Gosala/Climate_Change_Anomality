@@ -1,0 +1,5 @@
+Model,MAE,RMSE,R2,CV_R2_mean,CV_R2_std
+Linear Regression (Baseline),0.9264,1.0911,0.1114,0.1126,0.003
+Ridge Regression,0.9264,1.0911,0.1114,0.1126,0.003
+Random Forest Regressor,0.9289,1.0941,0.1066,0.1071,0.003
+Gradient Boosting Regressor,0.9282,1.0923,0.1095,0.1109,0.0027
